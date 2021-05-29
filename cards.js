@@ -20,6 +20,7 @@ class Stack{
     this.limit = limit
     this.size  =   0
     this.topnode= null
+    this.nextnode= null
 
     }
 
